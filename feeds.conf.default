@@ -1,0 +1,8 @@
+src-git packages https://github.com/AOZIT/AZ-W100_NEW-PACKAGES.git^2e92916417bcaab97928318979644c37a82e7eec
+src-git luci https://github.com/openwrt/luci.git^c46963613f7f1312dac62e507346777ba6f8d8a6
+src-git routing https://github.com/openwrt-routing/packages.git^0d9c99ce5caf51b7a3922831088cf321ef795313
+src-git telephony https://github.com/openwrt/telephony.git^ec4f3a1e6b56ff7f3184665b3308b69b2d291613
+src-git management https://github.com/openwrt-management/packages.git^de36f62549d8da3723c80182812dc89ead2959fd
+src-git targets https://github.com/openwrt/targets.git
+#src-git oldpackages http://git.openwrt.org/packages.git
+#src-link custom /usr/src/openwrt/custom-feed
